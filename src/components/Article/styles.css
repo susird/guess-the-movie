@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.game-over {
+  font-size: 50px;
+}
+
+.you-win {
+  font-size: 50px;
+}

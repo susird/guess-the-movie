@@ -1,0 +1,14 @@
+.header {
+  font-size: 40px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.lives {
+  padding-right: 50px;
+}
+
+.points {
+  padding-left: 50px;
+}
